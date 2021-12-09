@@ -4,7 +4,7 @@
 <link href="estilo.css" rel="stylesheet">
 </head>
 <body>
-<table width="150%" border="0">
+<table width="98%" border="0">
   <caption>
     <h1>Estado de SP confirma o terceiro caso da variante Ômicron no Brasil</h1>
   </caption>
