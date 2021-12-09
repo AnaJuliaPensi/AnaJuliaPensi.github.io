@@ -1,7 +1,36 @@
 <html>
 <head>
 <meta charset="utf-8" />
-<link href="estilo.css" rel="stylesheet">
+<style type="text/css">
+html {
+  font-family: sans-serif;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    margin-bottom: 20px;
+    margin-left: 20px;
+    color: white;
+	font-weight: bold;
+	background: #FF0000;
+}
+
+.button {
+    background-color: #FF0000; /* Red */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+</style>
 </head>
 <body>
 <table width="98%" border="0">
